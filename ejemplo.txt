@@ -6,3 +6,7 @@ DERECHO
 PROGRAMACION
 
 ahora si estoy en prog branch help y voy por una comit ya...
+ 
+
+y vamos por mas texto en programacion version hermosa de como van los branch
+
