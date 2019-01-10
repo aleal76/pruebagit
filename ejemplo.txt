@@ -8,3 +8,6 @@ PROGRAMACION
 ahora si estoy en prog branch help y voy por una comit ya...
 
 Se me ocurre continuar de este que estaba bueno y dejar lo otro veremos con commit así nomas
+
+en esa onda le agrego mas cosas despues de chekout y coommit
+
